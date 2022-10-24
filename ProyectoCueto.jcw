@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ProyectoCueto</label>
+	</settings>
+	<users>
+		<user>
+			<path>ProyectoCueto.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Principal\Principal.jcp</path>
+		</project>
+	</projects>
+</workspace>
